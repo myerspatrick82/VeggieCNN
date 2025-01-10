@@ -1,8 +1,16 @@
 # **README for Veggie CNN**
 ## **VeggieCNN**
 ## Introduction
-This is a basic CNN model used to identify vegetables of 6 different types from a curated set of images. **[(Link)](https://www.kaggle.com/datasets/jocelyndumlao/a-dataset-for-vegetable-identification/data)**
+This repository contains a simple Convolutional Neural Network (CNN) built using PyTorch to classify six different types of vegetables from a curated image dataset. The model architecture includes:
++ **2 Convolutional Layers:** For feature extraction
++ **2 Pooling Layers:** For down-sampling.
++ **2 Fully Connected Linear Layers:** For final classification.
+  
+The activation function used is ReLU throughout the network.
+
 I created this after watching a 5 hour PyTorch Youtube course and wanted to find a basic way of applying those skills I gained to something possibly useful. 
+
+Feel free to check out the code and dataset **[(link)](https://www.kaggle.com/datasets/jocelyndumlao/a-dataset-for-vegetable-identification/data)**, and let me know your thoughts or suggestions for improvement!
 ### **Experimented with different**
 + Learning rates
 + Optimizers
