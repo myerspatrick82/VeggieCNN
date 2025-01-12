@@ -33,3 +33,6 @@ Feel free to check out the code and dataset **[(link)](https://www.kaggle.com/da
 + Accuracy of Augmented Pointed gourd: 100.00 %
 + Accuracy of Augmented Potato: 98.32 %
 + Accuracy of Augmented eggplant: 97.84 %
+
+## Added weird functionality for extremely basic HTML
++ Can use flask and the command flask run to run on your local system through the main.py script but you would have to redownload the neural network model from the veggienet.py commented code at the end of main().
