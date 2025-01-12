@@ -1,0 +1,23 @@
+body {
+    background: grey;
+    align-items: center;
+    /* display: flex; */
+    justify-content: center;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+form {
+    background: white;           /* Optional: Adds a background to the form */
+    padding: 20px;               /* Optional: Adds spacing inside the form */
+    border-radius: 10px;         /* Optional: Rounds the corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a shadow */
+}
